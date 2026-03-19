@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Agent artifacts
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+AGENTS.md
