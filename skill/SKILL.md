@@ -356,7 +356,9 @@ height: 100dvh;
 
 ## Delivery
 
-Output a single `.html` file named `[topic]-ppt.html`. Include a brief summary of:
+Output a single `.html` file to `output/[topic]-ppt.html`. The `output/` directory is gitignored — all generated decks live there.
+
+Include a brief summary of:
 - Number of slides generated
 - Style applied (and any style-specific notes)
 - Key design choices made
