@@ -137,6 +137,12 @@ Welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
+## 💛 Sponsor
+
+This project is sponsored by **[PathUnfold](https://pathunfold.com)** — 用 AI 發電，探索 AI 時代的個人成長路徑。
+
+---
+
 ## License
 
 MIT — use freely, attribution appreciated.
@@ -145,6 +151,6 @@ MIT — use freely, attribution appreciated.
 
 <div align="center">
 
-Made with ✦ AI + human taste
+Made with ✦ AI + human taste · Sponsored by [PathUnfold](https://pathunfold.com)
 
 </div>
