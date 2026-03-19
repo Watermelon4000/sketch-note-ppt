@@ -4,7 +4,7 @@
 
 **AI-generated Sketch Notes style presentations — self-contained HTML, zero dependencies**
 
-[Demo](#-demo) · [Quick Start](#-quick-start) · [Use with AI Tools](#-use-with-ai-coding-tools) · [Visual Components](#-visual-components) · [Style Guide](style/STYLE_GUIDE.md)
+[Demo](#-demo) · [Quick Start](#-quick-start) · [Use with AI Tools](#-use-with-ai-coding-tools) · [Visual Components](#-visual-components) · [Style Guide](style/STYLE_GUIDE.md) · [Contributing](CONTRIBUTING.md)
 
 </div>
 
@@ -22,7 +22,12 @@ Just tell any AI coding tool: *"Make a PPT about [topic]"* and get a complete `.
 
 ## 🎨 Demo
 
-Open [`demo/demo-index.html`](demo/demo-index.html) in your browser.
+Open any demo in your browser — no build step required:
+
+| Demo | Description |
+|------|-------------|
+| [`demo-index.html`](demo/demo-index.html) | AI Agent 工具選擇指南（sketch-notes style） |
+| [`notebooklm-intro-ppt.html`](demo/notebooklm-intro-ppt.html) | NotebookLM 介紹簡報（sketch-notes style） |
 
 **Keyboard shortcuts:**
 | Key | Action |
@@ -123,6 +128,12 @@ Check out [**agentic-ppt**](https://github.com/Watermelon4000/agentic-ppt) for a
 - ✏️ **Canvas Drag Editor** — visually edit slides in browser
 - 🎬 **A-roll → Video** — turn slides into explainer videos (Remotion)
 - 🎙️ **TTS → Video** — script-to-video pipeline
+
+---
+
+## 🤝 Contributing
+
+Welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
