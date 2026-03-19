@@ -8,6 +8,8 @@
 
 </div>
 
+> 💛 Sponsored by **[PathUnfold](https://pathunfold.com)** — 用 AI 發電，探索 AI 時代的個人成長路徑。
+
 ---
 
 ## What is this?
@@ -134,12 +136,6 @@ Check out [**agentic-ppt**](https://github.com/Watermelon4000/agentic-ppt) for a
 ## 🤝 Contributing
 
 Welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 💛 Sponsor
-
-This project is sponsored by **[PathUnfold](https://pathunfold.com)** — 用 AI 發電，探索 AI 時代的個人成長路徑。
 
 ---
 
